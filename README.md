@@ -1,2 +1,3 @@
 # mlprojects
-A collection of various ML projects using various techniques.
+
+This repository includes ML techniques that I've learned and implemented in short examples. I've used the scikitlearn and tensorflow packages.
